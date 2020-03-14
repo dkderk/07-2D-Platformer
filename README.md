@@ -1,2 +1,2 @@
-# 07-2D-Platformer
-A 2D platformer
+# E08b-Debugging
+Debugged basic platformer game
