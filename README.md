@@ -1,2 +1,1 @@
-# E08b-Debugging
-Debugged basic platformer game
+A basic platformer game for game tech

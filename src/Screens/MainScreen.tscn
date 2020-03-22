@@ -20,6 +20,9 @@ anchor_bottom = 1.0
 texture = ExtResource( 2 )
 expand = true
 stretch_mode = 2
+__meta__ = {
+"_edit_use_anchors_": false
+}
 
 [node name="Title" parent="." instance=ExtResource( 3 )]
 anchor_left = 0.5
@@ -30,7 +33,7 @@ margin_left = -257.0
 margin_top = -360.0
 margin_right = 257.0
 margin_bottom = -190.0
-text = "Platformer"
+text = "Mars Rock Gatherer"
 
 [node name="Menu" type="VBoxContainer" parent="."]
 anchor_left = 0.5
